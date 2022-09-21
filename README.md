@@ -8,3 +8,5 @@ samewords.py
 sumsquare.py
 validnum.py
 calculator.py
+alphasequance.py
+party.py
