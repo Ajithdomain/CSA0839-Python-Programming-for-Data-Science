@@ -6,3 +6,5 @@ maxwords.py
 steps.py
 samewords.py
 sumsquare.py
+validnum.py
+calculator.py
