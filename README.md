@@ -10,3 +10,4 @@ validnum.py
 calculator.py
 alphasequance.py
 party.py
+palindrome.py
